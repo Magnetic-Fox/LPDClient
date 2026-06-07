@@ -10,7 +10,8 @@ It's as simple as it can be. Just pass data, IP (or domain address) and optional
 ## Disclaimer
 
 I've made much effort to provide here working and checked code with hope it'll be useful.  
-However I can't guarantee anything. As this code is provided here AS IS, You're using this solution ON YOUR OWN RISK.  
+However I can't guarantee anything.  
+As this code is provided here AS IS, You're using this solution ON YOUR OWN RISK.  
 I'm NOT responsible for ANYTHING.
 
 ## License
